@@ -1,0 +1,24 @@
+.pink {
+    background-color: hsl(350, 100%, 88%);
+}
+
+.font-odd {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.green {
+    background-color: #90ee90;
+}
+
+#bold {
+    font-weight: bold;
+}
