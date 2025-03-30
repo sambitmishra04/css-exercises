@@ -26,3 +26,7 @@ body {
   padding: 30px;
   margin-left: 50vw;
 }
+
+/* solution check is important here :
+I did margin-left as vw
+it should be auto */
